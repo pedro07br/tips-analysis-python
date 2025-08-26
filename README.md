@@ -62,5 +62,3 @@ O repositório inclui 10 exercícios completos:
     - Scatterplot entre `percent_tip` e `size`
     - Interpretação se grupos maiores dão proporcionalmente mais ou menos gorjeta
 
-## Estrutura do repositório
-
